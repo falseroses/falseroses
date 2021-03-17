@@ -10,7 +10,7 @@
 
 ## Contact me 💭
 - <a href="https://t.me/falseroses"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram (preferred)</a>
-- <a href="mailto:sasha.duminskiy@gmail.com">📩 E-mail: `crinny@protonmail.com`</a>
+- <a href="mailto:sasha.duminskiy@gmail.com">📩 E-mail: `sasha.duminskiy@gmail.com`</a>
 
 ## Donate 💸
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/600px-Bitcoin.svg.png" width=16 height=16 align="center" /> Bitcoin: `bc1q397nkegfzara38q27u2mc5u2u77zal2h9qheqq`
