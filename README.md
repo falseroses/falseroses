@@ -4,7 +4,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-* Learning Python
+* Learning Python and Bash-scripting
 * Diving into System Administrating
 
 ## Contact me 💭
