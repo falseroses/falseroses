@@ -2,7 +2,7 @@
 
 ## My stack 👨‍💻	<sub>From most experience to least</sub>
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%7B232F3E%7D?style=for-the-badge&logo=amazonaws&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%7B232F3E%7D?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 * Learning Python and Bash-scripting
 * Diving into DevOps
