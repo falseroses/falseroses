@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate TechOps engineer from Ukraine</h3>
+<h3 align="center">A passionate System Administrator from Ukraine</h3>
 
 - 🌱 I’m currently learning **aws, linux, devops-tools**
 
