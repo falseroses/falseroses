@@ -8,7 +8,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine who is currently working at Playtech.
+I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
